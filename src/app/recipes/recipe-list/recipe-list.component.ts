@@ -23,7 +23,7 @@ export class RecipeListComponent implements OnInit {
     new Recipe(
       'The second recipe',
       'Second testing recipe ',
-      'https://cdn.pixabay.com/photo/2016/06/15/19/09/food-1459693_960_720.jpg'
+      'https://static.onecms.io/wp-content/uploads/sites/19/2004/04/26/sea-bass-ck-630002-x.jpg'
     ),
   ];
 
